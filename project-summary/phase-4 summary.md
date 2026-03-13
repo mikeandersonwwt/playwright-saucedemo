@@ -293,7 +293,7 @@ expect(alt).toBeTruthy();
 ## Project Structure After Phase 4
 
 ```
-playwright-saucelabs/
+playwright-saucedemo/
 ├── fixtures/
 │   └── auth.fixture.ts        ✅ Created
 ├── utils/

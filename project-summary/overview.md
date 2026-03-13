@@ -16,7 +16,7 @@ It demonstrates production-style test architecture and practical QA workflows yo
 ## Project Structure (Current Implementation)
 
 ```
-playwright-saucelabs/
+playwright-saucedemo/
 ├── fixtures/                              ✅ IMPLEMENTED
 │   └── auth.fixture.ts                    # Custom fixtures with page objects & auth state
 ├── utils/                                 ✅ IMPLEMENTED

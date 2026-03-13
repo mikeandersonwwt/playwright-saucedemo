@@ -66,7 +66,7 @@ Phase 1 established the foundational structure for the Playwright showcase repos
 
 ### 6. Project Structure Created
 ```
-playwright-saucelabs/
+playwright-saucedemo/
 ├── .gitignore
 ├── project-summary/
 │    ├── overview.md

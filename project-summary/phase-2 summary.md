@@ -183,7 +183,7 @@ interface CheckoutInfo {
 ## Project Structure After Phase 2
 
 ```
-playwright-saucelabs/
+playwright-saucedemo/
 ├── pages/
 │   ├── LoginPage.ts          ✅ Created
 │   ├── InventoryPage.ts      ✅ Created

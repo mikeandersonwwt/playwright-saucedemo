@@ -129,7 +129,7 @@ Phase 3 focused on writing comprehensive test suites using the Page Object Model
 ## Project Structure After Phase 3
 
 ```
-playwright-saucelabs/
+playwright-saucedemo/
 ├── pages/
 │   ├── LoginPage.ts
 │   ├── InventoryPage.ts
